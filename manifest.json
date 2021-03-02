@@ -1,0 +1,11 @@
+{
+	"artifacts": [
+		{
+			"name": "EventsLady.jar",
+			"plugins": ["com.elysiumeventsLady"],
+			"version": "1.00",
+			"path": "https://github.com/DragonDrew/LadyEvent/EventsLady.jar",
+			"description": "Pink Lady"
+		}
+	]
+}
